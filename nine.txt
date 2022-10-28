@@ -6,3 +6,4 @@ _
 I am adding this line while being in brach "bug-2.0"
 _
 _
+this is being added from remote directory.
